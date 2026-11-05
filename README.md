@@ -15,4 +15,4 @@ A personal portfolio website showcasing my background, technical skills, project
 - Formspree
 
 ### Live Website
-[View Portfolio](https://ange-ophee.netlify.app/)
+[View Portfolio](https://ange-ophe.netlify.app/)
